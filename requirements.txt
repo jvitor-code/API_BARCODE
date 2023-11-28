@@ -1,0 +1,6 @@
+# Pillow é uma biblioteca de processamento de imagem
+Pillow==10.1.0
+
+# pyzbar é uma biblioteca para leitura de códigos de barras
+pyzbar==0.1.9
+Flask
